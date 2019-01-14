@@ -15,7 +15,15 @@ number of days in the data and number of simulations wanted. Using this simulati
 features such option pricing, MSE, MAPE, VaR based on Black-Sholes-Merton models and statistical fundamentals are included.
 
 #### GBM Simulation Structure
-The structure of the GBM Simulation program is splitted into 3 set of implementation and header files: DoubArray, DoubMatrix, Brownian, and main. 
+The structure of the GBM Simulation program is splitted into 3 sets of implementation and header files: 
+- DoubArray
+- DoubMatrix
+- Brownian
+- main
+
+### Built With
+- C++
+- R
 
 ### Deployment
 To run the program on command line, please place all data files and program codes into one file. The R code is for reading simulation data and plotting the simulated stock paths.The project's research paper is included for anyone who is interested on our findings and conclusions.
