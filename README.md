@@ -1,7 +1,7 @@
 # GBM-STOCK-MC
 ## Geometric Brownian Motion with Monte Carlo Method on Stock Prices
 
-The repository's codes are consisted of 2 historical stock price files "input" of Tesla Mortors and Danaos Corp, and the GBM Simulation programs that will generate simulations of stock prices.
+The repository's codes are consisted of 2 historical stock price files #input of Tesla Mortors and Danaos Corp, and the GBM Simulation programs that will generate simulations of stock prices.
 
 The program can reading any stock prices data files by changing the simulation matrix size of the 
 number of days in the data and number of simulations wanted. Using this simulations, additional
