@@ -1,5 +1,7 @@
 # GBM-STOCK-MC
 ## Geometric Brownian Motion with Monte Carlo Method on Stock Prices
+### Read My Paper: https://github.com/MINAYUAN/Option-Pricing-Cpp/blob/master/GBM%20Paper.pdf
+This respository contains my codes, paper, and literature review as a part of my final project in Applied Mathematics Object Oriented Scientific Programming at Western University in Canada, under Professor Colin Denniston in 2018.
 
 ### Getting Started
 The programs aims to read in stock prices data file, simulates and plots stock price n-day paths based on GBM and Monte Carlo methods, and other additional applications of financial mathematics.
